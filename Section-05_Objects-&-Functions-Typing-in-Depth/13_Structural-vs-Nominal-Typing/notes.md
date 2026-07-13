@@ -1,0 +1,2 @@
+# Structural vs Nominal Typing
+
